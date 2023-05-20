@@ -1,0 +1,13 @@
+C:\Users\hp\zero2prod\target\debug\deps\quote-fbae07b529ad6cc6.rmeta: C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.27\src\lib.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.27\src\ext.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.27\src\format.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.27\src\ident_fragment.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.27\src\to_tokens.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.27\src\runtime.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.27\src\spanned.rs
+
+C:\Users\hp\zero2prod\target\debug\deps\libquote-fbae07b529ad6cc6.rlib: C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.27\src\lib.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.27\src\ext.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.27\src\format.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.27\src\ident_fragment.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.27\src\to_tokens.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.27\src\runtime.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.27\src\spanned.rs
+
+C:\Users\hp\zero2prod\target\debug\deps\quote-fbae07b529ad6cc6.d: C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.27\src\lib.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.27\src\ext.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.27\src\format.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.27\src\ident_fragment.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.27\src\to_tokens.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.27\src\runtime.rs C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.27\src\spanned.rs
+
+C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.27\src\lib.rs:
+C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.27\src\ext.rs:
+C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.27\src\format.rs:
+C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.27\src\ident_fragment.rs:
+C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.27\src\to_tokens.rs:
+C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.27\src\runtime.rs:
+C:\Users\hp\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.27\src\spanned.rs:
